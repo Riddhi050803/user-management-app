@@ -9,8 +9,7 @@ Create User: ![Create User](image-2.png)
 
 Edit User: ![Edit User](image-3.png)
 
-Mobile View: 
-![Home-Mobile](image-4.png)
+Mobile View: ![Home-Mobile](image-4.png)
 ![Edit User](image-5.png)
 ![Create User](image-6.png)
 # Features
