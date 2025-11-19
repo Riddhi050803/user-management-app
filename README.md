@@ -1,18 +1,20 @@
-User Management Application
+# User Management Application
 
 A React + TypeScript CRUD application for managing users. The app uses JSONPlaceholder API to simulate backend operations (fetch, create, update, delete users). Fully responsive and styled with Tailwind CSS.
 
-📸 Screenshots
-Home Page: 
+# Screenshots
+Home Page:  ![Home](image-1.png)
 
-Create User: 
+Create User: ![Create User](image-2.png)
 
-Edit User: 
+Edit User: ![Edit User](image-3.png)
 
 Mobile View: 
-
-⚡ Features
-✅ Core Features
+![Home-Mobile](image-4.png)
+![Edit User](image-5.png)
+![Create User](image-6.png)
+# Features
+Core Features
 
 Fetch Users – Displays a list of users from JSONPlaceholder with name, email, and phone.
 
@@ -38,7 +40,7 @@ Smooth UI interactions and transitions.
 
 
 
-🛠 Tech Stack
+# Tech Stack
 
 Frontend: React (with Hooks) + TypeScript
 
@@ -50,7 +52,7 @@ API: JSONPlaceholder (https://jsonplaceholder.typicode.com/
 )
 
 
-📁 File Structure
+# File Structure
 
 ![file structure](image.png)
 
